@@ -1,0 +1,21 @@
+web t-workshop4
+Open html and type "html5"
+titled- css demo
+for semantic coding---> keep header(divides section)
+inside header h1
+after closing header to generate random paragraph use lorem inside paragragh
+go live after opening a folder
+designing pre defined tags--->element selector---> for ire defined html tags
+for comment on html--->"!"
+[Inline CSS   style in every line after header ----->style in heading/ where you wanna decorate "background;"put semicolon inside and discard use of colour use color instead
+
+if you dont save htmlThen in the title of html shows white dot
+<opening tag style"property:value;property2:value; property3 value:">
+{property--> bg-color:;font-size:;}-->needed semicolon\
+]
+[Internal CSS---> below head and ending within head 
+h1-->element]
+[External css(more reliable cause there is a different file for styling and there wont be confusion and hectic while scrolling)-->make an extra style.css text file and link external css with style css with link tag
+"link" tag inside head before title and after meta
+for font: google fonts--->select a font and in the top right click the bracket like icon and from there select whats inside syle and copy paste it inside style.css in the very first line and then go to ct from import st ]
+rel in link denotes relation. stylesheet =type of file 

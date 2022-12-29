@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,600&display=swap');
+h1{
+    background-color: dimgrey;font-size: 120px;color: rgb(107, 177, 182);
+    font-family: 'Playfair Display';
+}
+p{background-color: aliceblue;font-size: 60px;color: rgb(69, 121, 173);}
