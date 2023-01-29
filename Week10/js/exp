@@ -1,0 +1,10 @@
+pailai declare gareko feri declaregarda value override and errored in const value.
+Reassignment not allowed in const value
+type of shows its datatype
+static typing--> with datatype int 
+dynamic --> with only the datatype allowed in js (boolean, number, string, object)
+style. --> to tell the js that it is styling in inner html
+.cssText
+dont keep space write another word starting with Camel case
+GetElements--> indexing required
+qury doesnt require indexing

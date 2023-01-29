@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Listener</title>
+    <style>
+        .Night-mode{
+            background-color: black;
+            color: white;
+        }
+    </style>
+</head>
+<body class="Night-mode">
+    <!-- <h1>Getting Started with Event Listener</h1> -->
+    <h1> Toggle function darkmode lightmode</h1>
+    <!-- <button onclick="myFunction()">Click Me!</button> -->
+
+    <button onclick="myFunction()">Night-mode</button>
+    <script>
+        function myFunction(){
+            var element = document.body;
+            element.classList.toggle("Night-mode");
+        // document.write("<h1>I am here after i got clicked</h1>"); '.'function allows for function to be applicable
+    }
+    </script>
+</body>
+</html>
